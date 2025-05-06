@@ -6,7 +6,7 @@ A **Herança** foi aplicada através da criação de classes genéricas, permiti
 
 O **Polimorfismo** está presente na sobrescrita de métodos, permitindo que cada classe tenha comportamentos distintos conforme sua necessidade. Por exemplo, a classe `Podcast` pode definir sua própria implementação do método `reproduzir()`, incluindo introduções ou anúncios antes do conteúdo principal.
 
-A estrutura de arquivos do projeto segue um padrão organizado, facilitando a manutenção e compreensão do código. O diretório contém pacotes separados para modelos, serviços e classes principais, garantindo modularidade. Além disso, o código pode ser executado facilmente ao clonar o repositório no GitHub, abrir em uma IDE Java como **IntelliJ** ou **Eclipse**, e compilar a classe principal `Main.java`.
+A estrutura de arquivos do projeto segue um padrão organizado, facilitando a manutenção e compreensão do código. O diretório contém pacotes separados para modelos, serviços e classes principais, garantindo modularidade. Além disso, o código pode ser executado facilmente ao clonar o repositório no GitHub, abrir em uma IDE Java como **IntelliJ** ou **Eclipse**, e compilar a classe principal `scr`.
 
 Um exemplo de uso do projeto seria a criação de um objeto `Musica`, definindo seus atributos e chamando o método `reproduzir()`, o que pode ser feito assim:
 
@@ -40,7 +40,7 @@ Regarding **Encapsulation**, class attributes were declared as `private`, ensuri
 
 **Polymorphism** is present in method overriding, allowing each class to have distinct behaviors according to its needs. For example, the `Podcast` class can define its own implementation of the `play()` method, including intros or advertisements before the main content.
 
-The project's file structure follows an organized pattern, making code maintenance and understanding easier. The directory contains separate packages for models, services, and main classes, ensuring modularity. Additionally, the code can be easily executed by cloning the repository on **GitHub**, opening it in a Java IDE such as **IntelliJ** or **Eclipse**, and compiling the main class `Main.java`.
+The project's file structure follows an organized pattern, making code maintenance and understanding easier. The directory contains separate packages for models, services, and main classes, ensuring modularity. Additionally, the code can be easily executed by cloning the repository on **GitHub**, opening it in a Java IDE such as **IntelliJ** or **Eclipse**, and compiling the main class `scr`.
 
 An example of project usage would be creating a `Music` object, defining its attributes, and calling the `play()` method, like this:
 
