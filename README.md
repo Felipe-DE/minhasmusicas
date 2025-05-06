@@ -25,6 +25,9 @@ Caso queira contribuir ou sugerir melhorias, fique à vontade para explorar o re
 
 
 
+
+
+
 README translated into English:
 
 ---
